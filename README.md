@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Simply Cyber, a view of cyber security in the GC | #SecureGCDigital
 
 You can use the [editor on GitHub](https://github.com/Simply-Cyber/simply-cyber.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
