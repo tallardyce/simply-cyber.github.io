@@ -1,5 +1,7 @@
 ## Welcome to Simply Cyber, a view of cyber security in the GC | #SecureGCDigital
 
+<img src=https://censys.io/static/img/censys-logo.png>
+
 You can use the [editor on GitHub](https://github.com/Simply-Cyber/simply-cyber.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
